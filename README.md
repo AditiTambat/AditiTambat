@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Aditi Tambat</h1>
 <h3 align="center">Passionate About Perfecting Web Designs.</h3>
 <br>
-<img align="center" alt="img" width="400" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
+<img align="center" alt="img" width="450" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
