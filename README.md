@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Aditi Tambat</h1>
 <h3 align="center">Passionate About Perfecting Web Designs.</h3>
-<img align="center" alt="img" width="400" src="https://github.com/user-attachments/assets/f94b4086-0f73-4dba-bff0-8b05fc4c9e65">
+<img align="center" alt="img" width="400" src="![https://github.com/user-attachments/assets/f94b4086-0f73-4dba-bff0-8b05fc4c9e65](https://github.com/AditiTambat/AditiTambat/blob/main/img.gif)">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=adititambat&label=Profile%20views&color=0e75b6&style=flat" alt="adititambat" /> </p>
 <h3 align="left">Languages and Tools:</h3>
