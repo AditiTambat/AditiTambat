@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Aditi Tambat</h1>
 <h3 align="center">Passionate About Perfecting Web Designs.</h3>
-<img align="right" alt="img" width="400" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
+<img align="center" alt="img" width="400" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=adititambat&label=Profile%20views&color=0e75b6&style=flat" alt="adititambat" /> </p>
