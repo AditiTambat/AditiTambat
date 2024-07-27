@@ -3,8 +3,6 @@
 <br>
 <img align="center" alt="img" width="400" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 <br>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=adititambat&label=Profile%20views&color=0e75b6&style=flat" alt="adititambat" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
