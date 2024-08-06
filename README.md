@@ -3,6 +3,9 @@
 <br>
 <img align="center" alt="img" width="450" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 
+- 🌱 I’m currently **expanding my expertise in frontend development, focusing on modern web technologies and frameworks.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h-dO6b83qjhmpeQvdtTSkytoIZPDFCMd/view?usp=drive_link](https://drive.google.com/file/d/1h-dO6b83qjhmpeQvdtTSkytoIZPDFCMd/view?usp=drive_link)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -27,8 +30,10 @@
  <a href="https://www.leetcode.com/aditi_tambat" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditi_tambat" height="30" width="40" /></a>
 </p>  
-- 📫 How to reach me **adititambat2710@gmail.com**
-<br>
+<h3>
+  
+-  📫 How to reach me **adititambat2710@gmail.com**
+</h3>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adititambat&show_icons=true&locale=en&layout=compact" alt="adititambat" /></p>
 
