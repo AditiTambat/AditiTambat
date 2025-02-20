@@ -3,7 +3,7 @@
 <br>
 <img align="center" alt="img" width="450" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 
-- 🌱 I’m currently **expanding my expertise in frontend development, focusing on modern web technologies and frameworks, and I am seeking a fresher position in the IT industry.**
+- 🌱 I’m currently **expanding my expertise in Java Full Stack development, focusing on modern web technologies and frameworks, and I am seeking a fresher position in the IT industry.**
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
