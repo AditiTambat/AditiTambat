@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Aditi Tambat</h1>
 <h3 align="center">Passionate About Perfecting Web Designs.</h3>
 <br>
-<img align="center" alt="img" width="450" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
+<!-- <img align="center" alt="img" width="450" src="umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif"> -->
 
 - 🌱 I’m currently **expanding my expertise in Java Full Stack development, focusing on modern web technologies and frameworks, and I am seeking a fresher position in the IT industry.**
 -  👨‍💻 All of my projects are available at [https://adititambat.github.io/Portfolio/](https://adititambat.github.io/Portfolio/)
